@@ -1,9 +1,11 @@
-# Livro de receitas
+# Livro de receitas :man_cook:
 
 
 
-Bem vindo ao meu livro de receitas! 
+Bem vindo ao meu livro de receitas! :hand:
 
 
 
-* Seja bem vindo
+* Strogonoff de frango :chicken:
+
+  
